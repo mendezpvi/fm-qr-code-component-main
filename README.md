@@ -4,6 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![Sample](./assets/vid/sample.gif)
+
 ## Table of contents
 
 🔳 [Screenshot](#screenshot-camera)
@@ -23,7 +25,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## *Links* :link:
 
-<!-- [Live site URL](https://your-solution-url.com) 👀 -->
+[Live site URL](https://mendezpvi.github.io/fm-qr-code-component-main/) 👀
 
 [Challenges overcome](https://github.com/mendezpvi/frontend-mentor-challenges) 👀
 
