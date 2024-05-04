@@ -19,17 +19,6 @@ body {
   color: var(--dark-blue);
 }
 
-h1 {
-  margin: 0;
-  inline-size: 1px;
-  block-size: 1px;
-  font-size: 1px;
-  opacity: 0;
-  visibility: hidden;
-  position: absolute;
-  left: -100vw;
-}
-
 :root {
   --white: hsl(0, 0%, 100%);
   --light-gray: hsl(211, 45%, 89%);
